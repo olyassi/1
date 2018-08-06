@@ -5,7 +5,7 @@
 2. two
 3. three
 
-![no image](http://blendededu.me/static/loads/users/2.jpg)
+![no image](http://blendededu.me/static/load/users/2.jpg)
 [site](test)
 ```print(123)```
 ```
